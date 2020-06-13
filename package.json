@@ -1,0 +1,16 @@
+{
+  "name": "Text-To-Speech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://Azmeer95.github.io/Text-To-Speech",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
