@@ -1,2 +1,2 @@
 # Text-To-Speech
-JavaScript web application implemented using SpeechSynthesis (Text-to-Speech) API. DOESNOT work in mobile.
+JavaScript web application implemented using SpeechSynthesis (Text-to-Speech) API.
